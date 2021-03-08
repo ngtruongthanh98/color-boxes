@@ -14,8 +14,8 @@ const Box = ({ boxColor, boxNumber, handleDrag, handleDrop }) => {
         borderColor: boxColor,
         borderRadius: "5px",
         color: "#FFF",
-        width: "30%",
-        height: "100px"
+        width: "50px",
+        height: "50px"
       }}
     >
       {boxNumber}
